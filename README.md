@@ -2,7 +2,7 @@
 
 <!-- Banner / GIF -->
 <div align="center">
-  <img src="https://media1.tenor.com/m/1ADfnPYgOUkAAAAd/bocchi-the-rock-bocchi.gif" alt="Bocchi Coding GIF" width="600" height="300" />
+  <img src="assets/Bocchi.gif" alt="Bocchi Coding GIF" width="600" height="300" />
 </div>
 
 <div align="center">
