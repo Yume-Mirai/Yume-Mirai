@@ -1,43 +1,59 @@
-# Hi there! I'm Asfari 👋  
+# 👋 Halo, Saya [Nama Lengkap Anda]!
 
-### 💻 About Me  
-- 🎓 D3 Informatics Management student  
-- 🌱 Currently learning **Java Spring Boot** & **React**  
-- 📊 Interested in **software development**, **data structures**, **databases**, and **algorithms**  
-- 🚀 Preparing myself for a career as a **Backend Developer**  
+<!-- Tambahkan GIF atau Video di sini -->
+<div align="center">
+  <img src="https://media.giphy.com/media/[giphy-id]/giphy.gif" alt="GIF Intro" width="600" height="300" />
+  <!-- Jika ingin video: Ganti dengan gambar thumbnail dan link ke video -->
+  <!-- <a href="https://youtube.com/watch?v=[video-id]"><img src="https://img.youtube.com/vi/[video-id]/0.jpg" alt="Video Intro" width="600" height="300" /></a> -->
+</div>
 
----
+<div align="center">
+  <img src="https://via.placeholder.com/150x150/4CAF50/FFFFFF?text=Foto+Profil" alt="Foto Profil" width="150" height="150" style="border-radius: 50%;" />
+</div>
 
-### 🔨 Tech Stack  
-💡 Languages & Tools I often use:  
+Saya adalah [deskripsi singkat, misalnya: pengembang web full-stack] yang passionate tentang teknologi dan inovasi. Saya senang berkolaborasi dalam proyek open-source dan belajar hal baru setiap hari.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+## 📈 Statistik GitHub
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[username-anda]&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[username-anda]&theme=dark&hide_border=true" alt="GitHub Streak" />
+</div>
 
-### 📊 GitHub Stats  
+## 🛠️ Teknologi & Tools
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yume-Mirai&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yume-Mirai&theme=tokyonight" alt="GitHub streak" height="160"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
+## 🌟 Proyek Terbaru
+
+- **[Proyek 1](https://github.com/[username-anda]/[repo-1])**: Deskripsi proyek, misalnya: Aplikasi e-commerce dengan React dan Node.js.
+- **[Proyek 2](https://github.com/[username-anda]/[repo-2])**: Deskripsi, misalnya: Bot Telegram untuk notifikasi otomatis.
+- **[Proyek 3](https://github.com/[username-anda]/[repo-3])**: Deskripsi, misalnya: Website portofolio pribadi.
+
+## 📫 Cara Menghubungi
+
+- **Email**: [email-anda@example.com]
+- **LinkedIn**: [linkedin.com/in/[username-linkedin]](https://linkedin.com/in/[username-linkedin])
+- **Twitter**: [@username-twitter](https://twitter.com/username-twitter)
+
+## 🎯 Tentang Saya
+
+- 🔭 Sedang mengerjakan: [proyek saat ini]
+- 🌱 Belajar: [teknologi baru, misalnya: TypeScript]
+- 💬 Tanya saya tentang: [topik spesialisasi]
+- ⚡ Fun fact: [fakta menarik tentang diri Anda]
+
 ---
 
-### ✨ Fun Fact  
-⚡ I believe coding is like solving puzzles — the fun part is when everything *finally clicks*!  
-
----
-
-### 📫 Reach Me  
-- 📧 [Email](mailto:your-email@example.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/your-linkedin)  
-- 🐦 [Twitter](https://twitter.com/your-twitter)  
-
----
-
-⭐️ From [Yume-Mirai](https://github.com/Yume-Mirai)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=[username-anda]&color=blueviolet&style=flat-square" alt="Profile Views" />
+</div>
