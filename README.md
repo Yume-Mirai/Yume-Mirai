@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="assets/bocchi.gif" alt="Bocchi Coding GIF" width="950" 
+  <img src="assets/Bocchi.gif" alt="Bocchi Coding GIF" width="950" 
   height="400"/>
 </div>
 
