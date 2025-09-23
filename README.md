@@ -6,8 +6,8 @@
 ---
 
 <div align="center">
-  <img src="assets/Bocchi.gif" alt="Bocchi Coding GIF" width="800vw" 
-  height="340vw"/>
+  <img src="assets/Bocchi.gif" alt="Bocchi Coding GIF" width="900" 
+  height="450"/>
 </div>
 
 Mahasiswa **D3 Manajemen Informatika** yang antusias dalam bidang **Backend Development**.  
