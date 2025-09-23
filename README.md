@@ -1,9 +1,10 @@
 
-
 <div align="center">
   <img src="assets/banner.png" alt="Asfari Banner" width="100%" />
 </div>
+
 ---
+
 <div align="center">
   <img src="assets/Bocchi.gif" alt="Bocchi Coding GIF" width="800vw" 
   height="340vw"/>
