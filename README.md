@@ -1,29 +1,21 @@
-# 👋 Halo, Saya Asfari Jamin!
 
-<!-- Banner / GIF -->
+
 <div align="center">
-  <img src="assets/Bocchi.gif" alt="Bocchi Coding GIF" width="600" height="300" />
+  <img src="assets/banner.png" alt="Asfari Banner" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://via.placeholder.com/150x150/4CAF50/FFFFFF?text=Asfari" alt="Foto Profil" width="150" height="150" style="border-radius: 50%;" />
+  <img src="assets/bocchi.gif" alt="Bocchi Coding GIF" width="950" 
+  height="400"/>
 </div>
 
-Saya adalah **mahasiswa D3 Manajemen Informatika** yang sedang fokus belajar **Java Spring Boot** & **React** untuk mempersiapkan karier sebagai **Backend Developer**.  
-Saya juga senang mempelajari **struktur data, basis data, dan logika algoritma** sebagai pondasi untuk problem solving di dunia pemrograman.  
+Mahasiswa **D3 Manajemen Informatika** yang antusias dalam bidang **Backend Development**.  
+Saat ini sedang mendalami **Java Spring Boot** & **React**, serta mengulik **Struktur Data**, **Basis Data**, dan **Algoritma**.  
+Tujuan saya adalah membangun aplikasi yang **scalable** dan berkembang menjadi seorang **Software Engineer profesional**.
 
 ---
 
-## 📈 Statistik GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yume-Mirai&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yume-Mirai&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-## 🛠️ Teknologi & Tools
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
@@ -36,26 +28,47 @@ Saya juga senang mempelajari **struktur data, basis data, dan logika algoritma**
 
 ---
 
-## 🌟 Proyek Terbaru
+## 🌟 Proyek Unggulan
 
-- **[Aplikasi Simulasi Keuangan Rental Mobil](https://github.com/Yume-Mirai/finance-rental-sim)**  
-  Aplikasi berbasis **Spring Boot** dengan fitur neraca keuangan, laporan laba rugi, dan perhitungan NPV & IRR.  
-- **[Portfolio Website](https://github.com/Yume-Mirai/portfolio)**  
-  Website pribadi menggunakan **React + Vite** untuk menampilkan project & pengalaman belajar.  
-- **[Mini Tools Data Struktur](https://github.com/Yume-Mirai/data-structure-tools)**  
-  Kumpulan implementasi struktur data dasar (stack, queue, linked list) dengan **Java**.
+- **[Simulasi Keuangan Rental Mobil](https://github.com/Yume-Mirai/finance-rental-sim)**  
+  Aplikasi **Spring Boot** untuk membuat laporan keuangan, neraca, serta menghitung NPV & IRR.
+
+- **[Website Portofolio](https://github.com/Yume-Mirai/portfolio)**  
+  Website pribadi menggunakan **React + Vite** untuk menampilkan proyek dan perjalanan belajar saya.
+
+- **[Tools Struktur Data](https://github.com/Yume-Mirai/data-structure-tools)**  
+  Kumpulan implementasi **Java** untuk struktur data dasar (stack, queue, linked list).
 
 ---
 
-## 📫 Cara Menghubungi
+## 📫 Hubungi Saya
 
-- 📧 **Email**: your-email@example.com  
-- 💼 **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-- 🐦 **Twitter**: [@yourtwitter](https://twitter.com/yourtwitter)  
+- 📧 **Email**: asfarijamin@gmail.com  
+- 💼 **LinkedIn**: [linkedin.com/in/asfarijamin](https://linkedin.com/in/asfarijamin)  
+- 🐦 **Twitter**: [@yourtwitter](https://twitter.com/yourtwitter) <!-- Bisa dihapus kalau nggak aktif -->
 
 ---
 
 ## 🎯 Tentang Saya
 
-- 🔭 Sedang mengerjakan: simulasi keuangan untuk bisnis rental mobil  
-- 🌱 Belajar: **Reac**
+- 🔭 Sedang mengerjakan: aplikasi simulasi keuangan bisnis rental mobil  
+- 🌱 Sedang belajar: **React**, **Spring Boot**, dan **manajemen state frontend**  
+- 💬 Bisa tanya seputar: Java backend & algoritma dasar  
+- ⚡ Fun fact: Sering ngoding malam ditemani Bocchi 🎸  
+
+---
+
+## 📈 Statistik GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yume-Mirai&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yume-Mirai&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yume-Mirai&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="160"/>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yume-Mirai&color=blueviolet&style=flat-square" alt="Profile Views" />
+</div>
