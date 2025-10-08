@@ -31,20 +31,20 @@ Tujuan saya adalah membangun aplikasi yang **scalable** dan berkembang menjadi s
 
 ## 🌟 Proyek Unggulan
 
-- **[Simulasi Keuangan Rental Mobil](https://github.com/Yume-Mirai/finance-rental-sim)**  
-  Aplikasi **Spring Boot** untuk membuat laporan keuangan, neraca, serta menghitung NPV & IRR.
+- **[JUSTMUSIK - Aplikasi Mendengarkan Musik](https://github.com/Yume-Mirai/Just-Musik-Backend)**  
+  Aplikasi **Spring Boot** untuk mendengarkan musik dan mendownloadnya.
 
-- **[Website Portofolio](https://github.com/Yume-Mirai/portfolio)**  
-  Website pribadi menggunakan **React + Vite** untuk menampilkan proyek dan perjalanan belajar saya.
+- **[KUKUS - Katalog Game](https://github.com/Yume-Mirai/KUKUS)**  
+  Website **Java + Thymeleaf** untuk menampilkan informasi game game yang seru.
 
-- **[Tools Struktur Data](https://github.com/Yume-Mirai/data-structure-tools)**  
-  Kumpulan implementasi **Java** untuk struktur data dasar (stack, queue, linked list).
+- **[YumeNime - AnimeList](https://github.com/Yume-Mirai/YumeNime)**  
+  Website **HTML + CSS + JS** untuk menampilkan informasi terkait anime terkini.
 
 ---
 
 ## 📫 Hubungi Saya
 
-- 📧 **Email**: asfarijamin@gmail.com  
+- 📧 **Email**: asfari160904@gmail.com  
 - 💼 **LinkedIn**: [linkedin.com/in/asfarijamin](https://linkedin.com/in/asfarijamin)  
 - 🐦 **Twitter**: [@yourtwitter](https://twitter.com/yourtwitter) <!-- Bisa dihapus kalau nggak aktif -->
 
